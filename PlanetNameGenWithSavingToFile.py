@@ -13,7 +13,7 @@ response = openai.ChatCompletion.create(
     },
     {
       "role": "user",
-      "content": "Description: Interesting planet in space.\nSeed words: cold, dry, life, icy, hot, acidic, sandy, lifeless, forest, water, ocean, fire, dust, technology, aliens, cyberpunk, lava, tectonic, earth, moon, sun, gaseous, goldilocks zone."
+      "content": "Description: Interesting planet in space.\nSeed words: cold, dry, life, icy, hot, acidic, sandy, lifeless, forest, water, ocean, fire, dust, technology, aliens, cyberpunk, lava, tectonic, earth, moon, sun, gaseous, goldilocks zone, magnetic, nebulous, crystalline, terraformed, barren, stormy, volcanic, radioactive, metallic, glowing, breathable, toxic, vibrant, gas giants, rings, auroras, asteroid-impacted, subterranean, floating-islands, methane lakes."
     },
     {
       "role": "assistant",
